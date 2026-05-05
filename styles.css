@@ -331,8 +331,7 @@ footer {
 }
 
 .footer-brand .footer-logo {
-    width: 90px;
-    border-radius: 20px;
+    width: 140px;
     margin-bottom: 1rem;
     filter: drop-shadow(0 4px 6px rgba(0,0,0,0.5));
 }
